@@ -3,10 +3,10 @@
 <h2>Kali Kurulum</h2>
 
 ```console
-git clone https://github.com/tingirifistik/Enough-Reborn.git
-cd Enough-Reborn
+git clone https://github.com/MrRobotroot/Fsociety-Boomber.git
+cd Fsociety-Boomber
 pip3 install -r requirements.txt
-python3 enough.py
+python3 Main.py
 ```
 
 
@@ -19,7 +19,7 @@ apt install tur-repo
 apt install python3.8
 pkg install pip
 pip install colorama
-git clone https://github.com/tingirifistik/Enough-Reborn.git
-cd Enough-Reborn
+git clone https://github.com/MrRobotroot/Fsociety-Boomber.git
+cd Fsociety-Boomber
 python3 Main.py
 ```
