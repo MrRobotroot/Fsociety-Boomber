@@ -1,12 +1,14 @@
 
 
 <h2>Kali Kurulum</h2>
+![Ekran görüntüsü 2025-02-18 185157](https://github.com/user-attachments/assets/775c2dda-e55f-4bb5-98e4-bc9c080a852e)
 
 ```console
 git clone https://github.com/MrRobotroot/Fsociety-Boomber.git
 cd Fsociety-Boomber
 pip3 install -r requirements.txt
 python3 Main.py
+
 ```
 
 
