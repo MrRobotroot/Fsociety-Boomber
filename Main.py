@@ -26,7 +26,7 @@ while 1:
     MrRobot-Erenx\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
-        menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gonder (Normal)\n\n 2- Cikis\n\n" + Fore.LIGHTYELLOW_EX + " Secim: "))
+        menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gonder\n\n 2- Cikis\n\n" + Fore.LIGHTYELLOW_EX + " Secim: "))
         if menu == "":
             continue
         menu = int(menu) 
