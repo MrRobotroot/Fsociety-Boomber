@@ -23,7 +23,7 @@ while 1:
  |_|   |____/ \___/ \____|___|_____| |_|   |_|  
                                                  
     
-             {}by {}MrRobot-Erenx\n  
+             {}by  {}MrRobot-Erenx\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gonder (Normal)\n\n 3- Cikis\n\n" + Fore.LIGHTYELLOW_EX + " Secim: "))
