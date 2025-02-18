@@ -1,4 +1,4 @@
-<img src=https://github.com/user-attachments/assets/775c2dda-e55f-4bb5-98e4-bc9c080a852e height="400px" width="800px"/>
+<img src=https://github.com/user-attachments/assets/775c2dda-e55f-4bb5-98e4-bc9c080a852e height="400px" width="600px"/>
 
 
 <h2>Kali Kurulum</h2>
